@@ -1,0 +1,8 @@
+INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 127.0.0.1 - - [17/May/2020 11:04:42] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO: 127.0.0.1 - - [17/May/2020 11:04:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO: 127.0.0.1 - - [17/May/2020 11:04:57] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+INFO: 127.0.0.1 - - [17/May/2020 11:04:57] "[37mGET /static/extra.js HTTP/1.1[0m" 200 -
+INFO: 127.0.0.1 - - [17/May/2020 11:04:57] "[37mGET /static/script.js HTTP/1.1[0m" 200 -
+INFO: 127.0.0.1 - - [17/May/2020 11:04:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO: 127.0.0.1 - - [17/May/2020 11:05:02] "[37mPOST / HTTP/1.1[0m" 200 -
